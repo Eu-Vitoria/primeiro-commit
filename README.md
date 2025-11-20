@@ -11,6 +11,7 @@
 - Node.js
 - PHP
 - MySQL
+- React Native
 
 ## 🌱 Objetivos
 - Aprofundar conhecimentos em Frontend e Backend  
