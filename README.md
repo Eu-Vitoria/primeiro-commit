@@ -13,6 +13,8 @@
 - MySQL
 - React Native
 - Linux
+- WordPress
+- Figna
 
 ## 🌱 Objetivos
 - Aprofundar conhecimentos em Frontend e Backend  
