@@ -7,7 +7,10 @@
 - Java ☕  
 - Python 🐍  
 - HTML 🌐  
-- CSS 🎨  
+- CSS 🎨
+- Node.js
+- PHP
+- MySQL
 
 ## 🌱 Objetivos
 - Aprofundar conhecimentos em Frontend e Backend  
